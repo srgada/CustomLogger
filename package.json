@@ -1,0 +1,27 @@
+{
+  "name": "consolemoduleexamples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console": "^0.7.2",
+    "cpy": "^8.1.2",
+    "empty-trash": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "net": "^1.0.2",
+    "npm-name": "^7.0.0",
+    "process": "^0.11.10",
+    "repl": "^0.1.3",
+    "require": "^2.4.20",
+    "string-width": "^5.0.1",
+    "util": "^0.12.4",
+    "wifi-password": "^3.0.1"
+  }
+}
